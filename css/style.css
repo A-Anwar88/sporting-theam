@@ -259,6 +259,9 @@ a{
    top: -50px;
    animation: productani01 5s linear infinite;
 }
+.home-section .home-img img{
+ width:100%
+}
 @keyframes productani01{
     0%,100%{
         transform: translateY(15px);
